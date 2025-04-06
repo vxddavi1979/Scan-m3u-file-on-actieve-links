@@ -34,3 +34,6 @@ inactive_channels.m3u: Lijst met niet-werkende zenders
 scan_report.txt: Gedetailleerd rapport met foutmeldingen
 
 Je kunt deze bestanden direct in je mediaspeler gebruiken.
+
+![image](https://github.com/user-attachments/assets/60849216-8d79-4abf-ac6c-91193bd29c65)
+
