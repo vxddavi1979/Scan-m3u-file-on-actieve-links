@@ -1,5 +1,5 @@
 # Scan-m3u-file-on-actieve-links
-m3u-scanner-gui.py
+m3u-scanner-gui.py V1.0 Dutch en English 
 
 M3U Scanner - Handleiding
 1: Deze tool controleert welke zenders in je M3U-afspeellijst werken en welke niet.
